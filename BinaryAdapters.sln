@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarroBinary", "CarroBinary\CarroBinary.csproj", "{4A8234AA-4239-4008-A73A-9A7C29CE4F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8234AA-4239-4008-A73A-9A7C29CE4F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8234AA-4239-4008-A73A-9A7C29CE4F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8234AA-4239-4008-A73A-9A7C29CE4F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8234AA-4239-4008-A73A-9A7C29CE4F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4C367C-7035-47D7-95AD-938E373FE7B3}
+	EndGlobalSection
+EndGlobal
